@@ -3,7 +3,7 @@
 ## To Learn
 ### C
 ### Python
-### Data Structure 
+### Data Structure - (Sorting, Hashmap)
 ### PLM
 ### SDLC
 ### Teamcenter
