@@ -5,5 +5,5 @@
 ### Python
 ### Data Structure - (Sorting, Hashmap)
 ### PLM
-### SDLC
+### SDLC - Waterfall Model, Sprial Model, Incremental Model, Agile Methodologies
 ### Teamcenter
