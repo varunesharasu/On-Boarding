@@ -6,4 +6,4 @@
 ### Data Structure - (Sorting, Hashmap)
 ### PLM
 ### SDLC - Waterfall Model, Sprial Model, Incremental Model, Agile Methodologies
-### Teamcenter
+### Teamcenter - software
